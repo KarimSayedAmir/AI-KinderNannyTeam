@@ -1,0 +1,7 @@
+agency-swarm
+python-dotenv
+requests
+pandas
+matplotlib
+nltk
+pydantic 
